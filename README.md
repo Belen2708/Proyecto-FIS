@@ -1,4 +1,4 @@
-# **InformaWeb**
+# **InforMath**
 "Sistema de información" (página web informativa) 
 
 
